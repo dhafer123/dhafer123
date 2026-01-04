@@ -79,7 +79,7 @@ A 2D game developed with **Godot**, featuring a **smart NPC** whose dialogues an
 - 💼 Open to **internships**, **graduation projects**, and **collaborations**
 - 🌍 Motivated to work on impactful and innovative software projects
 
-⭐ *Continuous learning, Continuous improvement.*
+## ⭐ *Continuous learning, Continuous improvement.*
 
 
 <!--
