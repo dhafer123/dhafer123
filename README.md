@@ -68,10 +68,9 @@ A 2D game developed with **Godot**, featuring a **smart NPC** whose dialogues an
 ---
 
 ## 📚 Currently Learning
-- Advanced **AI & Deep Learning**
-- **Mobile architecture** and performance optimization
-- **Game AI** and interactive systems
-- Scalable **backend system design**
+- 🎮 **Retro Game Development** (pixel art workflows, classic game mechanics)
+- 👁️ **Advanced Computer Vision** (object detection, image segmentation, feature extraction)
+- 📱 **Mobile App Optimization** using **BLoC** (state management, performance tuning)
 
 ---
 
