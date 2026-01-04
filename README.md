@@ -30,11 +30,11 @@ AI-based system for detecting plant diseases from images using **Computer Vision
 ### 🚗 Car Detection System
 Intelligent vehicle detection system for images and video streams using **Computer Vision**.
 
-**Tech:** `Python` · `OpenCV` · `Deep Learning`
+**Tech:** `Python` · `OpenCV` · `YOLOv11`
 
 ---
 
-### 🎮 Neon Adventure – 2D Game with Smart NPCs
+### 🎮 NeoQuest – 2D Game with Smart NPCs
 A 2D game developed with **Godot**, featuring a **smart NPC** whose dialogues and quotes are **AI-generated**, creating a dynamic player experience.
 
 **Tech:** `Godot Engine` · `GDScript` · `AI-generated content`
@@ -47,11 +47,10 @@ A 2D game developed with **Godot**, featuring a **smart NPC** whose dialogues an
 - Java
 - Python
 - JavaScript
-- PHP
 
 ### 📱 Mobile Development
+- Flutter
 - Android (Kotlin)
-- Cross-platform fundamentals
 
 ### 🎮 Game Development
 - Godot Engine
@@ -64,7 +63,8 @@ A 2D game developed with **Godot**, featuring a **smart NPC** whose dialogues an
 - CSS
 
 ### ⚙️ Backend
-- Spring Boot
+- Django
+- Nodejs
 - REST APIs
 - MySQL
 
