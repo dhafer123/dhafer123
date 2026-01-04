@@ -41,44 +41,29 @@ A 2D game developed with **Godot**, featuring a **smart NPC** whose dialogues an
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Essentials)
 
-### 💻 Programming Languages
-- Java
-- Python
-- JavaScript
+**Frontend & Mobile:**  
+- 📱 Flutter  
+- 🤖 Android (Kotlin)
 
-### 📱 Mobile Development
-- Flutter
-- Android (Kotlin)
+**Backend:**  
+- ⚙️ Django  
+- 🌐 Node.js  
+- 🧩 .NET  
 
-### 🎮 Game Development
-- Godot Engine
-- 2D Game Design
-- Game AI basics
+**Databases:**  
+- 🗄️ MySQL  
+- 🟠 Oracle  
+- 🐘 PostgreSQL  
 
-### 🌐 Frontend
-- React.js
-- HTML
-- CSS
+**AI & Computer Vision:**  
+- 🧠 CNNs  
+- 👁️ Computer Vision  
 
-### ⚙️ Backend
-- Django
-- Nodejs
-- REST APIs
-- MySQL
-
-### 🤖 AI & Data
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- CNNs
-
-### 🛠️ Tools & Platforms
-- Git & GitHub
-- Linux
-- Azure
-- XAMPP
+**Others:**  
+- 🛠️ Git & GitHub  
+- 🐧 Linux
 
 ---
 
@@ -95,7 +80,7 @@ A 2D game developed with **Godot**, featuring a **smart NPC** whose dialogues an
 - 💼 Open to **internships**, **graduation projects**, and **collaborations**
 - 🌍 Motivated to work on impactful and innovative software projects
 
-⭐ *Thanks for visiting my profile!*
+⭐ *Continuous learning, Continuous improvement.*
 
 
 <!--
