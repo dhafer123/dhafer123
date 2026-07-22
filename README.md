@@ -6,9 +6,9 @@
 
 Passionate about building intelligent, interactive applications — from AI-powered mobile apps to computer vision systems and games.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhafer-romdhani)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romdhani.dhafer@eniso.u-sousse.tn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhaferromdhani.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
@@ -29,12 +29,12 @@ Passionate about building intelligent, interactive applications — from AI-powe
 
 ## 🧩 Featured Projects
 
-### 🎓 Adapted – Adaptive Educational Content Recommendation *(Final Year Project @ ARSII)*
+### 🎓 EduAI – Adaptive Educational Content Recommendation *(Final Year Project @ ARSII)*
 Mobile application that leverages **AI** to recommend adaptive educational content tailored to each learner's profile, progress, and performance — built to personalize the learning experience end to end.
 
 **Tech:** `Flutter` · `Python` · `AI / Recommendation Models`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/PFE_project)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/YOUR-REPO-NAME)
 
 ---
 
@@ -43,7 +43,7 @@ AI-based system for detecting plant diseases from images using **Computer Vision
 
 **Tech:** `Python` · `CNNs` · `TensorFlow / Keras`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/AgriScan-frontend)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/YOUR-REPO-NAME)
 
 ---
 
@@ -61,7 +61,7 @@ A 2D game built with **Godot**, featuring a smart NPC whose dialogues and quotes
 
 **Tech:** `Godot Engine` · `GDScript` · `AI-generated content`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/NeoQuest)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/YOUR-REPO-NAME)
 
 ---
 
@@ -85,7 +85,8 @@ A 2D game built with **Godot**, featuring a smart NPC whose dialogues and quotes
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,sqlite,firebase" alt="databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" alt="databases" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" height="48" />
 
 **Game Dev & Tools**
 
@@ -105,7 +106,7 @@ A 2D game built with **Godot**, featuring a smart NPC whose dialogues and quotes
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhafer123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhafer123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhafer123&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
