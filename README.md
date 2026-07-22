@@ -1,29 +1,49 @@
-# 👋 Hi, I'm Dhafer 
+<div align="center">
 
-🎓 **Final-Year Applied Computer Science Engineering Student** at **ENISo**  
-💻 **Software Engineer | AI • Mobile • Game Development**  
-🚀 Passionate about building intelligent and interactive applications
+# Hi, I'm Dhafer 👋
+
+### Applied Computer Science Engineer (ENISo, 2026) · AI · Mobile · Game Dev
+
+Passionate about building intelligent, interactive applications — from AI-powered mobile apps to computer vision systems and games.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhafer-romdhani)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romdhani.dhafer@eniso.u-sousse.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhaferromdhani.me)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
+- 🎓 **Applied Computer Science Engineer**, graduated **2026** from **ENISo**
 - 🤖 Interested in **Artificial Intelligence** and real-world intelligent systems
-- 📱 **Mobile Development Enthusiast** with a strong interest in modern app architectures
+- 📱 **Mobile Development Enthusiast**, building AI-powered apps with modern architectures
 - 🎮 **Game Development Enthusiast**, combining creativity with technical problem-solving
-- 🧠 Enjoy learning and applying **algorithms**, **optimization**, and **computer vision**
-- 👨‍💼 **Former Head of Mobile Development** at **ODDCE**  
-  *(Orange Digital Center Club – ENISo)*
-- 🎯 Aspiring **Software Engineer** specializing in **AI, mobile, and backend development**
+- 🧠 Enjoy applying **algorithms**, **optimization**, and **computer vision**
+- 👨‍💼 **Former Head of Mobile Development** at **ODDCE** *(Orange Digital Center Club – ENISo)*
+- 🎯 Aspiring **Software Engineer** specializing in **AI, mobile, and full-stack development**
+- 💼 **Open to full-time opportunities** in mobile and AI-driven software engineering
 
 ---
 
 ## 🧩 Featured Projects
 
+### 🎓 Adapted – Adaptive Educational Content Recommendation *(Final Year Project @ ARSII)*
+Mobile application that leverages **AI** to recommend adaptive educational content tailored to each learner's profile, progress, and performance — built to personalize the learning experience end to end.
+
+**Tech:** `Flutter` · `Python` · `AI / Recommendation Models`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/PFE_project)
+
+---
+
 ### 🌱 AgriScan – Crop Disease Detection
 AI-based system for detecting plant diseases from images using **Computer Vision and Deep Learning**.
 
 **Tech:** `Python` · `CNNs` · `TensorFlow / Keras`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/AgriScan-frontend)
 
 ---
 
@@ -32,68 +52,76 @@ Intelligent vehicle detection system for images and video streams using **Comput
 
 **Tech:** `Python` · `OpenCV` · `YOLOv11`
 
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/YOUR-REPO-NAME)
+
 ---
 
 ### 🎮 NeoQuest – 2D Game with Smart NPCs
-A 2D game developed with **Godot**, featuring a **smart NPC** whose dialogues and quotes are **AI-generated**, creating a dynamic player experience.
+A 2D game built with **Godot**, featuring a smart NPC whose dialogues and quotes are **AI-generated**, creating a dynamic player experience.
 
 **Tech:** `Godot Engine` · `GDScript` · `AI-generated content`
 
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhafer123/NeoQuest)
+
 ---
 
-## 🧰 Tech Stack (Essentials)
+## 🧰 Tech Stack
 
-**Frontend & Mobile:**  
-- 📱 Flutter  
-- 🤖 Android (Kotlin)
+**Languages**
 
-**Backend:**  
-- ⚙️ Django  
-- 🌐 Node.js  
-- 🧩 .NET  
+<img src="https://skillicons.dev/icons?i=python,dart,kotlin,cs,cpp,js,html,css" alt="languages" />
 
-**Databases:**  
-- 🗄️ MySQL  
-- 🟠 Oracle  
-- 🐘 PostgreSQL  
+**Mobile & Frontend**
 
-**AI & Computer Vision:**  
-- 🧠 CNNs  
-- 👁️ Computer Vision  
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,react" alt="mobile-frontend" />
 
-**Others:**  
-- 🛠️ Git & GitHub  
-- 🐧 Linux
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,dotnet,express,fastapi" alt="backend" />
+
+**AI / Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="ai-cv" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,sqlite,firebase" alt="databases" />
+
+**Game Dev & Tools**
+
+<img src="https://skillicons.dev/icons?i=godot,git,github,linux,vscode,postman" alt="tools" />
 
 ---
 
 ## 📚 Currently Learning
-- 🎮 **Retro Game Development** (pixel art workflows, classic game mechanics)
-- 👁️ **Advanced Computer Vision** (object detection, image segmentation, feature extraction)
-- 📱 **Mobile App Optimization** using **BLoC** (state management, performance tuning)
+
+- 🎮 **Retro Game Development** — pixel art workflows, classic game mechanics
+- 👁️ **Advanced Computer Vision** — object detection, image segmentation, feature extraction
+- 📱 **Mobile App Optimization** using **BLoC** — state management, performance tuning
+- 🤖 **Generative AI / RAG systems** for mobile applications
 
 ---
 
-## 🤝 Let’s Connect
+## 📊 GitHub Stats
 
-- 💼 Open to **internships**, **graduation projects**, and **collaborations**
-- 🌍 Motivated to work on impactful and innovative software projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhafer123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhafer123&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafer123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
 ---
 
-⭐ *Continuous learning, Continuous improvement.*
+## 🤝 Let's Connect
 
+💼 Open to **internships**, **graduation-linked collaborations**, and **full-time opportunities**
+🌍 Motivated to work on impactful and innovative software projects — reach out anytime!
 
-<!--
-**dhafer123/dhafer123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+⭐ *Continuous learning, continuous improvement.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
