@@ -4,7 +4,7 @@
 
 ### Applied Computer Science Engineer (ENISo, 2026) · AI · Mobile · Game Dev
 
-Passionate about building intelligent, interactive applications — from AI-powered mobile apps to computer vision systems and games.
+Passionate about building intelligent, interactive applications, from AI-powered mobile apps to computer vision systems and games.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhafer-romdhani)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romdhani.dhafer@eniso.u-sousse.tn)
@@ -29,7 +29,7 @@ Passionate about building intelligent, interactive applications — from AI-powe
 
 ## 🧩 Featured Projects
 
-### 🎓 EduAI – Adaptive Educational Content Recommendation *(Final Year Project @ ARSII)*
+### 🎓 AdaptED – Adaptive Educational Content Recommendation *(Final Year Project @ ARSII)*
 Mobile application that leverages **AI** to recommend adaptive educational content tailored to each learner's profile, progress, and performance — built to personalize the learning experience end to end.
 
 **Tech:** `Flutter` · `Python` · `AI / Recommendation Models`
