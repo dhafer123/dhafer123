@@ -66,6 +66,31 @@ class Dhafer extends Developer {
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>📖 PageWise</h3>
+      <sub><b>Offline AI study assistant (RAG)</b></sub>
+      <p>Ask questions about your course PDFs fully offline: an on-device LLM answers with page citations, and tapping one opens the PDF with the passage highlighted. Vector search hits 90% Recall@5 on a 60-question French/English eval set.</p>
+      <img src="https://img.shields.io/badge/Flutter-0d1323?style=flat-square&logo=flutter&logoColor=38d6ee" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Riverpod-0d1323?style=flat-square&logo=flutter&logoColor=38d6ee" alt="Riverpod" />
+      <img src="https://img.shields.io/badge/Gemma_3_1B-0d1323?style=flat-square&logo=google&logoColor=38d6ee" alt="Gemma 3 1B" />
+      <img src="https://img.shields.io/badge/LiteRT-0d1323?style=flat-square&logo=tensorflow&logoColor=38d6ee" alt="LiteRT" />
+      <img src="https://img.shields.io/badge/SQLite_FTS5-0d1323?style=flat-square&logo=sqlite&logoColor=38d6ee" alt="SQLite FTS5" />
+      <br /><br />
+      <a href="https://github.com/dhafer123/Offline_RAG_study_assistant"><img src="https://img.shields.io/badge/View_Repo-38d6ee?style=flat-square&logo=github&logoColor=0d1323" alt="View repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Mizan</h3>
+      <sub><b>Offline-first student finance app</b></sub>
+      <p>Warns students before their money runs out and splits shared costs, with on-device voice and receipt input. Offline sync with conflict merging, verified by a randomized multi-phone simulation (1,000/1,000 scenarios per CI run).</p>
+      <img src="https://img.shields.io/badge/Flutter-0d1323?style=flat-square&logo=flutter&logoColor=38d6ee" alt="Flutter" />
+      <img src="https://img.shields.io/badge/SQLite-0d1323?style=flat-square&logo=sqlite&logoColor=38d6ee" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Django_REST-0d1323?style=flat-square&logo=django&logoColor=38d6ee" alt="Django REST Framework" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1323?style=flat-square&logo=postgresql&logoColor=38d6ee" alt="PostgreSQL" />
+      <br /><br />
+      <a href="https://github.com/dhafer123/Mizan"><img src="https://img.shields.io/badge/View_Repo-38d6ee?style=flat-square&logo=github&logoColor=0d1323" alt="View repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🗡️ Heartbeat Quest</h3>
       <sub><b>Mood-tracking pixel RPG</b></sub>
       <p>Self-care as an RPG: daily check-ins level up your pixel-art hero and grow your streak, while an LLM replies with thoughtful follow-up prompts.</p>
@@ -97,7 +122,7 @@ class Dhafer extends Developer {
       <img src="https://img.shields.io/badge/YOLOv11-0d1323?style=flat-square&logo=yolo&logoColor=38d6ee" alt="YOLOv11" />
       <img src="https://img.shields.io/badge/Roboflow-0d1323?style=flat-square&logo=roboflow&logoColor=38d6ee" alt="Roboflow" />
       <br /><br />
-      <img src="https://img.shields.io/badge/Repo-coming_soon-8b7cf6?style=flat-square&logo=github&logoColor=white&labelColor=0d1323" alt="Repo coming soon" />
+      <a href="https://github.com/dhafer123/Vehicle-detection"><img src="https://img.shields.io/badge/View_Repo-38d6ee?style=flat-square&logo=github&logoColor=0d1323" alt="View repo" /></a>
     </td>
   </tr>
 </table>
